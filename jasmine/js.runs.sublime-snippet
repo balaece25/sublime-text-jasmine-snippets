@@ -1,0 +1,11 @@
+<snippet>
+  <content>
+<![CDATA[
+runs(function() {
+  $1
+});]]>
+  </content>
+  <tabTrigger>runs</tabTrigger>
+  <description>Jasmine /runs</description>
+  <scope>source.js</scope>
+</snippet>

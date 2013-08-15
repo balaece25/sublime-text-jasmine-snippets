@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+expect($1)${2:.}toBeGreaterThan($3);]]>
+  </content>
+  <tabTrigger>tobegreaterthan</tabTrigger>
+  <description>Jasmine /tobegreaterthan</description>
+  <scope>source.js</scope>
+</snippet>

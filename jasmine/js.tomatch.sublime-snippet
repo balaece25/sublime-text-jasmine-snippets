@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+expect($1)${2:.}toMatch(/$3/);]]>
+  </content>
+  <tabTrigger>tomatch</tabTrigger>
+  <description>Jasmine /tomatch</description>
+  <scope>source.js</scope>
+</snippet>

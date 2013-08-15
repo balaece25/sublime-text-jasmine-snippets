@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+expect($1)${2:.}toBeFalsy($3);]]>
+  </content>
+  <tabTrigger>tobefalsy</tabTrigger>
+  <description>Jasmine /tobefalsy</description>
+  <scope>source.js</scope>
+</snippet>

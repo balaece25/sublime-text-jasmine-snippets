@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+spyOn($1, '$2');]]>
+  </content>
+  <tabTrigger>spyon</tabTrigger>
+  <description>Jasmine /spyon</description>
+  <scope>source.js</scope>
+</snippet>

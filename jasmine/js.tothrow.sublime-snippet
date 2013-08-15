@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+expect($1)${2:.}toThrow($3);]]>
+  </content>
+  <tabTrigger>tothrow</tabTrigger>
+  <description>Jasmine /tothrow</description>
+  <scope>source.js</scope>
+</snippet>

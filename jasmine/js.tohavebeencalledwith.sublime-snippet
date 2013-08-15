@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+expect($1)${2:.}toHaveBeenCalledWith($3)]]>
+  </content>
+  <tabTrigger>tohavebeencalledwith</tabTrigger>
+  <description>Jasmine /tohavebeencalledwith</description>
+  <scope>source.js</scope>
+</snippet>

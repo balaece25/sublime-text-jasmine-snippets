@@ -1,0 +1,11 @@
+<snippet>
+  <content>
+<![CDATA[
+spyOn($1, '$2').andCallFake(function() {
+  $3
+});]]>
+  </content>
+  <tabTrigger>spyonandcallfake</tabTrigger>
+  <description>Jasmine /spyonandcallfake</description>
+  <scope>source.js</scope>
+</snippet>

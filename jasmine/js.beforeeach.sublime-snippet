@@ -1,0 +1,11 @@
+<snippet>
+  <content>
+<![CDATA[
+beforeEach(function() {
+  $1
+});]]>
+  </content>
+  <tabTrigger>beforeeach</tabTrigger>
+  <description>Jasmine /beforeeach</description>
+  <scope>source.js</scope>
+</snippet>
