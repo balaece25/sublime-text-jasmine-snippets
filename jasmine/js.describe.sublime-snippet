@@ -5,7 +5,7 @@ describe ("${1:A suite}", function() {
   it("${2:contains spec with an expectation}", function() {
     $3
   });
-}]]>
+});]]>
   </content>
   <tabTrigger>describe</tabTrigger>
   <description>Jasmine /describe</description>
