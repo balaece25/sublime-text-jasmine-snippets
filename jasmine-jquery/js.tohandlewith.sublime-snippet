@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+expect($1)${2:.}toHandleWith($3);]]>
+  </content>
+  <tabTrigger>tohandlewith</tabTrigger>
+  <description>Jasmine/tohandlewith</description>
+  <scope>source.js</scope>
+</snippet>

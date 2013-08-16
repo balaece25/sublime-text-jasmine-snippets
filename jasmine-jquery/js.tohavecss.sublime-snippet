@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+expect($1)${2:.}toHaveCss($3);]]>
+  </content>
+  <tabTrigger>tohavecss</tabTrigger>
+  <description>Jasmine/tohavecss</description>
+  <scope>source.js</scope>
+</snippet>

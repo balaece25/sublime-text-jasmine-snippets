@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+expect($1)${2:.}toContainText('$3');]]>
+  </content>
+  <tabTrigger>tocontaintext</tabTrigger>
+  <description>Jasmine/tocontaintext</description>
+  <scope>source.js</scope>
+</snippet>

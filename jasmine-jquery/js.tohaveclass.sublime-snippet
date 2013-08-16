@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+expect($1)${2:.}toHaveClass('$3');]]>
+  </content>
+  <tabTrigger>tohaveclass</tabTrigger>
+  <description>Jasmine/tohaveclass</description>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+expect($1)${2:.}toBeDisabled();]]>
+  </content>
+  <tabTrigger>tobedisabled</tabTrigger>
+  <description>Jasmine/tobedisabled</description>
+  <scope>source.js</scope>
+</snippet>

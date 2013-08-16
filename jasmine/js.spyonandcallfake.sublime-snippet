@@ -6,6 +6,6 @@ spyOn($1, '$2').andCallFake(function() {
 });]]>
   </content>
   <tabTrigger>spyonandcallfake</tabTrigger>
-  <description>Jasmine /spyonandcallfake</description>
+  <description>Jasmine/spyonandcallfake</description>
   <scope>source.js</scope>
 </snippet>

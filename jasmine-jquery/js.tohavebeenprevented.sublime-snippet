@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+expect($1)${2:.}toHaveBeenPrevented();]]>
+  </content>
+  <tabTrigger>tohavebeenprevented</tabTrigger>
+  <description>Jasmine/tohavebeenprevented</description>
+  <scope>source.js</scope>
+</snippet>

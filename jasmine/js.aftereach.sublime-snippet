@@ -6,6 +6,6 @@ afterEach(function() {
 });]]>
   </content>
   <tabTrigger>aftereach</tabTrigger>
-  <description>Jasmine /aftereach</description>
+  <description>Jasmine/aftereach</description>
   <scope>source.js</scope>
 </snippet>

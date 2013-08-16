@@ -4,6 +4,6 @@
 expect($1)${2:.}toBeCloseTo($3);]]>
   </content>
   <tabTrigger>tobecloseto</tabTrigger>
-  <description>Jasmine /tobecloseto</description>
+  <description>Jasmine/tobecloseto</description>
   <scope>source.js</scope>
 </snippet>

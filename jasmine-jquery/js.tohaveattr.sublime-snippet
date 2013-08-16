@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+expect($1)${2:.}toHaveAttr('$3', '$4');]]>
+  </content>
+  <tabTrigger>tohaveattr</tabTrigger>
+  <description>Jasmine/tohaveattr</description>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+expect($1)${2:.}toBeVisible();]]>
+  </content>
+  <tabTrigger>tobevisible</tabTrigger>
+  <description>Jasmine/tobevisible</description>
+  <scope>source.js</scope>
+</snippet>

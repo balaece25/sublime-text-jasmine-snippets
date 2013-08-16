@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+expect($1)${2:.}toHaveId('$3');]]>
+  </content>
+  <tabTrigger>tohaveid</tabTrigger>
+  <description>Jasmine/tohaveid</description>
+  <scope>source.js</scope>
+</snippet>

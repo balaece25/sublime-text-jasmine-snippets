@@ -4,6 +4,6 @@
 expect($1)${2:.}toBeNull($3);]]>
   </content>
   <tabTrigger>tobenull</tabTrigger>
-  <description>Jasmine /tobenull</description>
+  <description>Jasmine/tobenull</description>
   <scope>source.js</scope>
 </snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+expect($1)${2:.}toHaveLength($3);]]>
+  </content>
+  <tabTrigger>tohavelength</tabTrigger>
+  <description>Jasmine/tohavelength</description>
+  <scope>source.js</scope>
+</snippet>

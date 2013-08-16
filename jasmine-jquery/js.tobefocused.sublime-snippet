@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+expect($1)${2:.}toBeFocused();]]>
+  </content>
+  <tabTrigger>tobefocused</tabTrigger>
+  <description>Jasmine/tobefocused</description>
+  <scope>source.js</scope>
+</snippet>

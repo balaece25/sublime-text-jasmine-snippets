@@ -4,6 +4,6 @@
 expect($1)${2:.}toEqual($3);]]>
   </content>
   <tabTrigger>toequal</tabTrigger>
-  <description>Jasmine /toequal</description>
+  <description>Jasmine/toequal</description>
   <scope>source.js</scope>
 </snippet>

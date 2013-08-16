@@ -6,6 +6,6 @@ waitsFor(function() {
 }, "$2", $3);]]>
   </content>
   <tabTrigger>waitsfor</tabTrigger>
-  <description>Jasmine /waitsfor</description>
+  <description>Jasmine/waitsfor</description>
   <scope>source.js</scope>
 </snippet>

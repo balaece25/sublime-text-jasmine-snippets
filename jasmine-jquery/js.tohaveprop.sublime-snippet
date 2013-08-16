@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+expect($1)${2:.}toHaveProp('$3', '$4');]]>
+  </content>
+  <tabTrigger>tohaveprop</tabTrigger>
+  <description>Jasmine/tohaveprop</description>
+  <scope>source.js</scope>
+</snippet>

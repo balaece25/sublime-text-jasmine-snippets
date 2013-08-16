@@ -6,6 +6,6 @@ runs(function() {
 });]]>
   </content>
   <tabTrigger>runs</tabTrigger>
-  <description>Jasmine /runs</description>
+  <description>Jasmine/runs</description>
   <scope>source.js</scope>
 </snippet>

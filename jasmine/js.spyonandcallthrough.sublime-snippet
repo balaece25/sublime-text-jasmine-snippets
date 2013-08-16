@@ -4,6 +4,6 @@
 spyOn($1, '$2').andCallThrough();]]>
   </content>
   <tabTrigger>spyonandcallthrough</tabTrigger>
-  <description>Jasmine /spyonandcallthrough</description>
+  <description>Jasmine/spyonandcallthrough</description>
   <scope>source.js</scope>
 </snippet>

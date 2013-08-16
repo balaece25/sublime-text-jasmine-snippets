@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+expect($1)${2:.}toBeChecked();]]>
+  </content>
+  <tabTrigger>tobechecked</tabTrigger>
+  <description>Jasmine/tobechecked</description>
+  <scope>source.js</scope>
+</snippet>

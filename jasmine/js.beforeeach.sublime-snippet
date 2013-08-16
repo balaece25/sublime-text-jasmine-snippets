@@ -6,6 +6,6 @@ beforeEach(function() {
 });]]>
   </content>
   <tabTrigger>beforeeach</tabTrigger>
-  <description>Jasmine /beforeeach</description>
+  <description>Jasmine/beforeeach</description>
   <scope>source.js</scope>
 </snippet>

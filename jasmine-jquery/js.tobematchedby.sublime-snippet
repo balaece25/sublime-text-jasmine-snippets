@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+expect($1)${2:.}toBeMatchedBy($3);]]>
+  </content>
+  <tabTrigger>tobematchedby</tabTrigger>
+  <description>Jasmine/tobematchedby</description>
+  <scope>source.js</scope>
+</snippet>

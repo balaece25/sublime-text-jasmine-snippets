@@ -4,6 +4,6 @@
 expect($1)${2:.}toBe($3);]]>
   </content>
   <tabTrigger>tobe</tabTrigger>
-  <description>Jasmine /tobe</description>
+  <description>Jasmine/tobe</description>
   <scope>source.js</scope>
 </snippet>

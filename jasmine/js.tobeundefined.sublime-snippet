@@ -4,6 +4,6 @@
 expect($1)${2:.}toBeUndefined($3);]]>
   </content>
   <tabTrigger>tobeundefined</tabTrigger>
-  <description>Jasmine /tobeundefined</description>
+  <description>Jasmine/tobeundefined</description>
   <scope>source.js</scope>
 </snippet>
